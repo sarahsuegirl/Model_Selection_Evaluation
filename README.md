@@ -4,6 +4,7 @@
 An end-to-end Machine Learning pipeline that predicts whether a user will click on a Facebook ad based on site engagement (`Time Spent on Site`) and demographic data (`Salary`).
 
 This project demonstrates a rigorous model benchmark pipeline using **Scikit-Learn's `Pipeline**` and **`GridSearchCV`** to systematically evaluate multiple classification algorithms and optimize hyperparameter configurations using ROC-AUC scoring.
+<img width="598" height="432" alt="image" src="https://github.com/user-attachments/assets/2c54cc11-a855-41cb-ba52-5b3f535ed1ae" />
 
 ---
 
